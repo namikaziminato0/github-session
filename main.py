@@ -1,4 +1,6 @@
 print("main")
 print("banana")
 while True:
-    pass
+    break
+
+print("apple")
